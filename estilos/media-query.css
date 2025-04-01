@@ -9,6 +9,7 @@
     }
     section#login{
         width: 80vw;
+        height: 35vh;
     }
     section#login > div#imagem{
         background-image: url(../img/pattern-m.jpg);
@@ -30,6 +31,7 @@
     }
 section#login{
         width: 950px;
+        height: 65vh;
     }
     section#login > div#imagem{
         background-image: url(../img/pattern-g.jpg);
