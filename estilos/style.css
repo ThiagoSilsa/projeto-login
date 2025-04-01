@@ -48,13 +48,14 @@ section#login{
 section#login > div#imagem{
     display: block;
     background: #5f2c82 url(../img/pattern-p.jpg) no-repeat;
-    height: 100px;
+    height: 10%;
     background-size: cover;
     background-position: center left;
 }
 section#login > div#form{
     padding: 10px;
     display: block;
+    height: 90%;
     
 }
 
